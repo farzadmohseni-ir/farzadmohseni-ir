@@ -5,7 +5,7 @@
 ### 🎓 M.Sc. Candidate in Information Technology Engineering (E-Commerce)
 ### 🏛️ Amirkabir University of Technology (Tehran Polytechnic)
 
-💡 Machine Learning • Data Science • Fraud Detection • Streaming Analytics
+💡 Machine Learning • Fraud Detection • Data Stream Mining • Data Science
 
 </div>
 
@@ -15,25 +15,28 @@
 
 I am a Computer Engineering graduate and an M.Sc. candidate in Information Technology Engineering (E-Commerce) at **Amirkabir University of Technology (Tehran Polytechnic)**.
 
-My research focuses on Machine Learning, Data Science, Fraud Detection, Online Learning, and Data Stream Mining. I am particularly interested in developing intelligent systems that transform large-scale and streaming data into actionable insights for real-world decision-making.
+My research focuses on **Machine Learning, Fraud Detection, Online Learning, Data Stream Mining, and Streaming Analytics**. I am particularly interested in developing intelligent systems capable of transforming large-scale and evolving data streams into actionable insights for real-world decision-making.
+
+My work combines academic research with practical applications in financial technology, predictive analytics, business intelligence, and intelligent decision-support systems.
 
 ---
 
 ## 🔬 Current Research
 
-### 🏦 Thesis
+### 🏦 Master's Thesis
 
 **On-line Detection of Credit Card Payment Frauds Based on Streaming Data With Machine Learning Algorithms**
 
-Research Areas:
+Current research topics include:
 
 - 🌊 Data Stream Mining
-- 🌲 Adaptive Random Forest (ARF)
-- 🔄 Concept Drift Adaptation
+- 🤖 Adaptive Random Forest (ARF)
+- 🔄 Concept Drift Detection & Adaptation
 - ⚖️ Imbalanced Learning
-- ⏱️ Real-Time Fraud Detection
 - 📡 Streaming Analytics
-- 🤖 Online Machine Learning
+- ⏱️ Real-Time Fraud Detection
+- 💳 Financial Fraud Analytics
+- 🧠 Online Machine Learning
 
 ---
 
@@ -59,7 +62,17 @@ Research Areas:
 
 ---
 
-## 🛠️ Tech Stack
+## 🏅 Academic Highlights
+
+- 🎯 National M.Sc. Entrance Examination Rank: **77**
+- 💰 Recipient of an industry-sponsored research grant from **MCI**
+- 🔬 Researcher in **Machine Learning and Fraud Detection**
+- 📊 Experience in Data Mining, Predictive Analytics, and Business Intelligence
+- 🌊 Specialized in Streaming Data Analytics and Online Learning
+
+---
+
+## 🛠️ Technical Stack
 
 ### Programming & Data Science
 
@@ -69,18 +82,22 @@ Research Areas:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+### Analytics & BI
+
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 📚 Research Interests
+## 🎯 Academic Focus
 
 - 🤖 Machine Learning
-- 📊 Data Science
 - 🛡️ Fraud Detection
-- 🌊 Streaming Analytics
+- 🌊 Data Stream Mining
 - ⚡ Online Learning
+- 📊 Data Science
 - 🧠 Artificial Intelligence
+- 📈 Predictive Analytics
 - ⛏️ Data Mining
 - 💰 Financial Technology (FinTech)
 
@@ -89,22 +106,16 @@ Research Areas:
 ## 📂 Featured Projects
 
 ### 🏦 Credit Card Fraud Detection
-Streaming-data and adaptive machine learning framework for real-time payment fraud detection.
+Machine learning and streaming-data framework for adaptive and real-time payment fraud detection.
 
 ### 💊 Pharmaceutical Sales BI Dashboard
-Business intelligence platform featuring KPI monitoring, customer analytics, and decision-support reporting.
+End-to-end business intelligence solution with KPI monitoring, customer analytics, and decision-support reporting.
 
-### 🩺 Breast Cancer Classification & Clustering
-Machine learning, classification, clustering, and predictive modeling on medical datasets.
+### 🩺 Medical Data Mining Projects
+Breast Cancer, Heart Disease, Hepatitis, and Chronic Kidney Disease prediction and classification using machine learning techniques.
 
 ### 🌐 Social & Business Network Analysis
-Graph analytics, network mining, and business intelligence using Gephi.
-
----
-
-## 📈 GitHub Statistics
-
-![Farzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadmohseni-ir&show_icons=true)
+Graph analytics, network mining, customer influence analysis, and business intelligence using Gephi.
 
 ---
 
